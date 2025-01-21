@@ -1,2 +1,7 @@
 # eks-tf
-A terraform implementation of eke
+A basic terraform implementation of eks which creates network pre-requisites.
+
+Prerequisites:
+- AWS account
+- AWS credentials
+- S3 state bucket
