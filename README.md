@@ -1,5 +1,5 @@
 # eks-tf
-A basic terraform implementation of eks which creates network pre-requisites.
+A basic terraform configuration to manage eks which creates network pre-requisites.
 
 Prerequisites:
 - AWS account
